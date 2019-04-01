@@ -1,0 +1,33 @@
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    background: transparent;
+}
+.navbar-fixed-top {
+    top: 0;
+}
+
+.navbar-fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.navbar {  
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+.nav>li {
+    display: inline-block !important;
+    padding: 1%;
+    margin: 0 3%; 
+  }
+.navbar-nav{
+    display: inline-block;
+    width: 50%;
+}
+

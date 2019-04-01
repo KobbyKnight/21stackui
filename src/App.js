@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
 import './App.css';
 import  AboutUs  from "./components/about_us";
+import  NavBar  from "./components/nav";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
+      <NavBar />
         <header className="App-header">          
           <p>
             Edit <code>src/App.js</code> and save to reload.

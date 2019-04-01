@@ -16,7 +16,7 @@ class AboutUs extends Component {
                     <p>Whatever kogi lo-fi offal salvia, synth PBR&B wayfarers man braid you probably haven’t heard of them crucifix. Sriracha DIY lomo wolf four dollar toast bushwick. Gluten-free quinoa tumblr, single-origin coffee freegan health goth pour-over meditation. Portland helvetica intelligentsia keytar, four loko green juice dreamcatcher cornhole</p>
                 </div>
                 <div className="col-md-6">
-                <iframe title={'video'} width="560" height="315" src="https://www.youtube-nocookie.com/embed/GUdBFpg0Rdo?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe className = "Iframe" title={'video'} src="https://www.youtube-nocookie.com/embed/GUdBFpg0Rdo?controls=0" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                 </div>               
             </div>
         </section>

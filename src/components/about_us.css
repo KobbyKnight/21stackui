@@ -4,6 +4,10 @@ padding: 2%;
 width: 100%;
 height: auto;
 }
+.Iframe{
+width: 100%;
+height: 100%;
+}
 
 .AboutUs-header{
     text-align: center;
